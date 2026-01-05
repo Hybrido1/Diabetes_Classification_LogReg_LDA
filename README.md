@@ -106,7 +106,7 @@ Developed as part of a **Data Science Capstone Project**.
 
 ## Final Note
 
-This repository demonstrates the complete lifecycle of a machine learning project—from data preprocessing and model evaluation to optimization following best practices and academic guidelines.
+This repository demonstrates the complete lifecycle of a machine learning project from data preprocessing and model evaluation to optimization following best practices and academic guidelines.
 
 
 
